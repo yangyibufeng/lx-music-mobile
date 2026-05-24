@@ -1,6 +1,14 @@
 # OSX
 #
 .DS_Store
+.mp3
+testMedia
+.mydocs
+*.md
+*.yaml
+*.png
+*.jpg
+*.mp3
 
 # Xcode
 #
@@ -59,6 +67,7 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+*.bundle
 
 # Ruby / CocoaPods
 /ios/Pods/
